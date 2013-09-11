@@ -8,6 +8,8 @@ This is a basic introduction gem to learn the basics of [RSpec](https://github.c
 * Fork this project and clone it locally
 * Run `bundle`
 * Run `rspec`
+* Write some tests
+* Write the Calculator methods
 * Make tests pass
 * Refactor
 
