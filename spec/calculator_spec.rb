@@ -14,5 +14,6 @@ describe Calculator do
   it "raise an error when divides by 0" do
     pending
   end
+  #Write more examples!!
 end
 
